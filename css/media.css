@@ -1,0 +1,23 @@
+@media only screen and (min-width: 200px) and (max-width: 900px) {
+    header{
+        height: 60px;
+        font-size: 20px;
+    }
+    .header__container{
+        flex-direction: column;
+        height: 100%;
+        justify-content: center;
+    }
+    #search__input{
+        width: 150px;
+    }
+    .movies__container{
+        grid-template-columns: repeat(1, 1fr);
+        gap: 10px;
+    }
+}
+@media only screen and (min-width: 576px) and (max-width: 900px){
+    .movies__container{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
