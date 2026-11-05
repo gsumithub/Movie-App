@@ -5,9 +5,6 @@ A responsive **Movie Search & Browsing Web Application** built using **HTML5, CS
 The app displays **recent movies on initial load (year-based)** and allows users to **search movies by title**, browse results with **pagination**, and interact with a clean, modern UI.
 
 
-https://github.com/user-attachments/assets/122f0161-36ae-4308-ad35-b87e1332fe11
-
-
 ---
 
 ## 🚀 Live Demo
